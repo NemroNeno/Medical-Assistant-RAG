@@ -2,7 +2,7 @@
 
 A sophisticated medical question-answering system built using Retrieval Augmented Generation (RAG) techniques with advanced features such as reranking.
 
-![Medical Chatbot Interface](docs/images/medical_chatbot_screenshot.png)
+![Medical Chatbot Interface](p1.jpg)
 *Placeholder: Screenshot of the Medical Chatbot in action*
 
 ## 📋 Project Overview
@@ -16,6 +16,12 @@ This project implements a specialized medical chatbot that uses advanced RAG (Re
 - **Reranking**: Improves retrieval accuracy by reordering initial search results
 - **Custom Prompting**: Specialized medical prompts for improved response generation
 - **Gradio Interface**: User-friendly web UI for interacting with the system
+
+## 🏗️ Architecture
+
+The following diagram illustrates the comprehensive architecture of our Medical Chatbot RAG system:
+
+![Architecture Diagram](arc_code.jpg)
 
 ## 🔧 Technologies Used
 
